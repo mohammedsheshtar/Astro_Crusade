@@ -7,12 +7,12 @@ to boot the game:
 [4] Hit the play button and start playing!
 
 controls:
-[*] up key: move up
-[*] down key: move down
-[*] left key: move left
-[*] right key: move right
-[*] X: precision shot
-[*] C: cherry bomb
+up key: move up
+down key: move down
+left key: move left
+right key: move right
+X: precision shot
+C: cherry bomb
 
 tip: cherry bomb is dictated by how many cherries you collect and is indicated
 on the top right corner of your screen. If you collect 5 cherries you will
