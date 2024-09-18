@@ -1,4 +1,4 @@
-# Astro Crusade is an 8-bit game inspired by the classic space invaders game and is developed in pico-8 using LUA as the programming language. I hope you enjoy the game!
+# Astro Crusade is an 8-bit game inspired by the classic space invaders game and is developed on pico-8 using LUA as the programming language. I hope you enjoy the game!
 
 to boot the game:
 - Extract the folder from the zip file
