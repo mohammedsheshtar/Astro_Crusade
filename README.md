@@ -1,10 +1,10 @@
 # Hello! this is an 8-bit game that was inspired by the classic space invaders game and is developed in pico-8 using LUA as the programming language. I hope you enjoy the game!
 
 to boot the game:
-[1] Extract the folder from the zip file
-[2] Keep the JS and HTML files in the same directory
-[3] Double click the HTML file, it will open a page on your main browser
-[4] Hit the play button and start playing!
+- Extract the folder from the zip file
+- Keep the JS and HTML files in the same directory
+- Double click the HTML file, it will open a page on your main browser
+- Hit the play button and start playing!
 
 controls:
 - up key: move up
